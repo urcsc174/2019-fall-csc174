@@ -1,5 +1,5 @@
 # CSC 174 Course Documentation
-Advanced Front-end Web Design and Development
+Advanced Front-end Web Design and Development ...just testing the connection
 
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md) &lArr; here be: slides, demos, assignments, and related links from lectures and labs
