@@ -2,21 +2,23 @@
 
 "Front-end" is an industry term that refers to the focus on HTML, CSS and JavaScript, which differentiates this course from the formal programming courses. Topics include Information Architecture, visual design, use of client libraries (mostly JS), and asset management strategies; we will also cover Content Management Systems and introduce web databases using PHP and MySQL.
 
-- CRN: **52177**
+- CRN: **53206**
 - Course: **CSC 174**
 - Credits: **4.0**
-- Lecture/Lab Schedule: **Mondays and Wednesdays, 10:25 to 11:40 AM**
+- Lecture/Lab Schedule: **Mondays and Wednesdays, 3:25 to 4:40 PM**
 - Building: **Gavett Hall**
 - Room: **208**
 
 ## Instructor Information 
+
 - Instructor: **Professor Kostin**
-- E-mail: **<robert.kostin@rochester.edu>**
+- E-mail: **<robert.kostin@rochester.edu>** (for faster reply, please use [Slack](https://csc174.slack.com/) to contact the professor)
 - Office: **Morey Hall, Room 313**
 
 ### Office Hours
-- **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://csc174.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor and other students will answer as quickly as possible.
-- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in Morey 313, Monday, Wednesday, and Friday between 1:30 and 2:30 PM.
+
+- **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://csc174.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor and other students will answer as quickly as possible
+- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in Morey 313, Tuesdays and Wednesdays between 9:30 and 10:30 AM.
 
 ## Grading
 For each assignment, a grading rubric is provided. Rubrics will inform students how assignments are evaluated. 
@@ -57,13 +59,13 @@ On the day when an in-class exercise is assigned, students must complete them in
 
 ### Assignments
 
-Assignments (previously referred to as "labs") are made available via **Slack** during the lectures and each is given a due date.  Assignments and can be completed in the dedicated lab time (in the classroom) or independently on the student's own Internet-connected computer (Mac or PC).  
+Assignments (previously referred to as "labs") are made available via **Blackboard** during the lectures and each is given a due date.  Assignments and can be completed in the dedicated lab time (in the classroom) or independently on the student's own Internet-connected computer (Mac or PC).  
 
 ### Technical Help
 
 There are three ways students can get help on assignments.
 
-- From the TAs during dedicated work time in the lecture/lab classroom
+- From the Professor during dedicated work time in the lecture/lab classroom
 - During the Professor's virtual office hours in **Slack**
 
 
@@ -73,7 +75,7 @@ For each assignment and project, the **due date** is shown near the top of the l
 
 ### Late assignments
 
-Late assignments will not be graded unless a *prior* arrangement has been made with one of the TAs or the professor to give you an **extension by one or two days** based on the discretion of the TA or Professor.  Extensions will only be granted two or three times, maximum, per semester, at the discretion of the professor. The grade for assignments not turned-in on time with no prior arrangement for an extension will be zero.
+Late assignments will not be graded unless a *prior* arrangement has been made with the professor to give you an **extension by one or two days** based on the discretion of the Professor.  Extensions will only be granted two or three times, maximum, per semester, at the discretion of the professor. The grade for assignments not turned-in on time with no prior arrangement for an extension will be zero.
 
 ### Second chances
 
@@ -83,9 +85,9 @@ Unlike CSC 170 **every assignment is graded once** and gets averaged-in to the o
 
 Because of the dynamic nature of the web development industry, this course does not use a textbook. All information required to pass the course comes from the lectures so attendance is mandatory.  
 
-**Important:** Because attendence is not graded the student is on thier honor to go to all the lectures.  If a student is unable to attend a lecture, it is the student's responsibility to get the information missed from another student. (The TAs and the Professor will not re-teach a lecture.) 
+**Important:** Because attendance is not graded the student is on their honor to go to all the scheduled classes.  If a student is unable to attend a scheduled class, it is the student's responsibility to get the information missed from another student. (The Professor will not re-teach a lecture nor the demos.) 
 
-Students' inability to complete assignments or projects (i.e. exams) because of a missed lecture is not a valid excuse.
+Students' inability to complete assignments or projects (i.e. exams) because of a missed class not a valid excuse.
 
 ### Personal Computer and Software
 
