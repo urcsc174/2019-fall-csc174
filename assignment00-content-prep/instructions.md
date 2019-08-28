@@ -19,6 +19,6 @@ For the next CSC 174 class, **have content prepared** to create a quick webpage 
 
 Look at [the professor's example (ZIP)](media/example.zip) to get a feel for what's required.  Notice, in the Word document there are no headings nor lists.  It's just plain text.  And notice the image file is not web-ready - it's way too large.  (That's okay.  We'll fix that next week.)
 
-*Note: if you do not want to make the topic about yourself (recommended) you may make it about someone else ...a famous person perhaps.*
+*Note: if you do not want to make the topic about yourself you may make it about someone else ...a famous person perhaps.*
 
 This assignment is not graded, but you'll need it to do the next assignment which *is* graded.
