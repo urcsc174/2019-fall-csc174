@@ -1,6 +1,6 @@
 # Lab 2: "Flash" Website
 
-*Due: today - Wednesday, September 11, 2019 (75 minutes)*
+*Due: <s>today - Wednesday, September 11, 2019 (75 minutes)</s> Monday, September 16, 2019*
 
 **The goal** of this lab is to work as a team to combine three students' initial personal websites into one cohesive website as quickly as possible.
 
