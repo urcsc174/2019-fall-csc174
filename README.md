@@ -16,9 +16,10 @@ Monday, September 9 and Wednesday, September 11, 2019
 - **In-class work:** 
   - Install WAMP or MAMP; demo your *Initial Personal Website* (with PHP includes) working on *localhost* (pass/fail)
   - [Sign-up to be on a City-Team (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/1vkAjS8dGcFF_ByS9VRuI8sGagDNTyrp8JF43sN_mf4M/edit#gid=0)
+  - [Lab 2: "Flash" Website](lab02-flash-website/instructions.md)
+  - Assignment 2: "Smash Website" (coming soon)
 - **Homework:**
   - *If necessary,* clean-up/fix Assignment 1 (it needs to be perfect before Thursday)
-  - Lab 2: "Flash" Website (coming soon)
 
 ### Week 2
 
@@ -40,3 +41,4 @@ Wednesday, August 28, 2019
 - **In-class work**
   - [Setup Slack account (link)](https://join.slack.com/t/csc174/signup)
   - [Assignment 0: Content Prep](assignment00-content-prep/instructions.md)
+
