@@ -6,6 +6,14 @@ Advanced Front-end Web Design and Development
 
 ## Topics and Assignments
 
+### Week 4
+
+Monday, September 16 and Wednesday, September 18, 2019
+
+- [Assignment 2: "Smash Website"](assignment02-smash-website/instructions.md) (due: Monday, September 23 - before Monday's class at 3:25 PM)
+  - **Coder:** Repo created and synced with the team: TODAY, Monday, September 16
+  - **IA:** Basic document structure created and synced with the team: Wednesday, September 18
+
 ### Week 3
 
 Monday, September 9 and Wednesday, September 11, 2019
@@ -17,7 +25,6 @@ Monday, September 9 and Wednesday, September 11, 2019
   - Install WAMP or MAMP; demo your *Initial Personal Website* (with PHP includes) working on *localhost* (pass/fail)
   - [Sign-up to be on a City-Team (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/1vkAjS8dGcFF_ByS9VRuI8sGagDNTyrp8JF43sN_mf4M/edit#gid=0)
   - [Lab 2: "Flash" Website](lab02-flash-website/instructions.md)
-  - Assignment 2: "Smash Website" (coming soon)
 - **Homework:**
   - *If necessary,* clean-up/fix Assignment 1 (it needs to be perfect before Thursday)
 
