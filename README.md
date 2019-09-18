@@ -10,6 +10,12 @@ Advanced Front-end Web Design and Development
 
 Monday, September 16 and Wednesday, September 18, 2019
 
+- **Information Architecture**
+  - [Information Architecture (PDF)](06-information-architecture/information-architecture.pdf)
+  - [Ontology (YouTube)](https://youtu.be/jfUPLuPL3Ho)
+  - [Taxonomy (website)](https://www.beancreative.com/website-taxonomy-101-aka-the-art-and-science-of-classifying-your-content/)
+  - [Lab 3: Markdown and Information Architecture](lab03-markdown-and-ia/instructions.md) 
+
 - [Assignment 2: "Smash Website"](assignment02-smash-website/instructions.md) (due: Monday, September 23 - before Monday's class at 3:25 PM)
   - **Coder:** Repo created and synced with the team: TODAY, Monday, September 16
   - **IA:** Basic document structure created and synced with the team: Wednesday, September 18

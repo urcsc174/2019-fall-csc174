@@ -9,7 +9,7 @@ This schedule is subject to modification throughout the semester. Always check w
 | Monday, September 9, 2019     | Web Solution Stacks                   | Lab 1: Initial Personal Website on LOCALHOST                 | *If necessary,* clean-up/fix Assignment 1                    |
 | Wednesday, September 11, 2019 | Version Control Software              | [Lab 2: "Flash" Website](lab02-flash-website/instructions.md) |                                                              |
 | Monday, September 16, 2019    | Working as a Team                     |                                                              | [Assignment 2: "Smash Website"](assignment02-smash-website/instructions.md) |
-| Wednesday, September 18, 2019 | Information Architecture              | Lab 3: Information Architecture and Markdown                 |                                                              |
+| Wednesday, September 18, 2019 | Information Architecture              | [Lab 3: Markdown and Information Architecture](lab03-markdown-and-ia/instructions.md) |                                                              |
 | Monday, September 23, 2019    | Forking a Repository                  | Lab 4: Forking a Repository                                  | Assignment 3: New Team Website                               |
 | Wednesday, September 25, 2019 | Principles of Page Design, part 1     |                                                              |                                                              |
 | Monday, September 30, 2019    | CSS Architecture                      | Lab 5: CSS Architecture                                      | [nothing new until Wednesday]                                |
