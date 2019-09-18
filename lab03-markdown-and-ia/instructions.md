@@ -8,9 +8,9 @@ For this exercise you need to gather sets of content from three separate and ver
 
 - **Recommended:** go to Wikipedia.  Locate *three* different topics that interest you. 
 - Even though the sources need to be very different, think of some *common thread* - something they *do* have in common.  (Be creative.)  E.g. cars, trains, and airplanes …they're all modes of transportation
-- You'll need to gather a certain amount of text and some images (at least three images, resized to relatively small sizes as needed)
+- You'll need to gather a certain amount of text ~~and some images (at least three images, resized to relatively small sizes as needed)~~
 
-Regarding *markdown*, here are some references:
+ Regarding *markdown*, here are some references:
 
 - [Github Flavored Markdown](https://github.github.com/gfm/)
 - [Wikipedia: Markdown](https://en.wikipedia.org/wiki/Markdown)
@@ -39,9 +39,9 @@ Also also, you can create an `.md` file directly in GitHub, online, in your repo
 - [ ] Then, in the rest of the markdown document, you need to insert your content (whatever you chose) and create a good document structure using the principles of information architecture. 
   - All told, you should have a document with around 500-700 words or so.  (I'm not going to count the words, but you should be in the ballpark.) 
   - Everything described in the Ontology, Taxonomy, and Choreography should be represented in the content
-  - Hint: you should end-up with several headings, sub-headings, stuff like that with text and images arranged within.  (Hint: lots of headings and sub-headings is GOOD)
+  - Hint: you should end-up with several headings, sub-headings, stuff like that with text ~~and images~~ arranged within.  (Hint: lots of headings and sub-headings is GOOD)
 
 
 When you're done...
 
-- [ ] Create a submission in Blackboard, in **Lab 03: Markdown and Information Architecture** and upload your **readme.md** file **and image files**, or if you wrote your markdown file directly in GitHub, submit the link to it in Blackboard
+- [ ] Create a submission in Blackboard, in **Lab 03: Markdown and Information Architecture** and upload your **readme.md** file **~~and image files~~**, or if you wrote your markdown file directly in GitHub, submit the link to it in Blackboard
