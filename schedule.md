@@ -10,7 +10,7 @@ This schedule is subject to modification throughout the semester. Always check w
 | Wednesday, September 11, 2019 | Version Control Software              | [Lab 2: "Flash" Website](lab02-flash-website/instructions.md) |                                                              |
 | Monday, September 16, 2019    | Working as a Team                     |                                                              | [Assignment 2: "Smash Website"](assignment02-smash-website/instructions.md) |
 | Wednesday, September 18, 2019 | Information Architecture              | [Lab 3: Markdown and Information Architecture](lab03-markdown-and-ia/instructions.md) |                                                              |
-| Monday, September 23, 2019    | Forking a Repository                  | Lab 4: Forking a Repository                                  | Assignment 3: New Team Website                               |
+| Monday, September 23, 2019    | Information Architecture Website      |                                                              | [Assignment 3: Information Architecture](assignment03-information-architecture/instructions.md) |
 | Wednesday, September 25, 2019 | Principles of Page Design, part 1     |                                                              |                                                              |
 | Monday, September 30, 2019    | CSS Architecture                      | Lab 5: CSS Architecture                                      | [nothing new until Wednesday]                                |
 | Wednesday, October 2, 2019    | Principles of Page Design, part 2     | Lab 6: Odd Student Out                                       | Assignment 4: Odd Student Out                                |
