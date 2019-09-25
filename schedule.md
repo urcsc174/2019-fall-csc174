@@ -11,7 +11,7 @@ This schedule is subject to modification throughout the semester. Always check w
 | Monday, September 16, 2019    | Working as a Team                     |                                                              | [Assignment 2: "Smash Website"](assignment02-smash-website/instructions.md) |
 | Wednesday, September 18, 2019 | Information Architecture              | [Lab 3: Markdown and Information Architecture](lab03-markdown-and-ia/instructions.md) |                                                              |
 | Monday, September 23, 2019    | Information Architecture Website      |                                                              | [Assignment 3: Information Architecture](assignment03-information-architecture/instructions.md) |
-| Wednesday, September 25, 2019 | Principles of Page Design, part 1     |                                                              |                                                              |
+| Wednesday, September 25, 2019 | Principles of Page Design, part 1     | [User "Inyerface" (website)](https://userinyerface.com/) (ungraded) |                                                              |
 | Monday, September 30, 2019    | CSS Architecture                      | Lab 5: CSS Architecture                                      | [nothing new until Wednesday]                                |
 | Wednesday, October 2, 2019    | Principles of Page Design, part 2     | Lab 6: Odd Student Out                                       | Assignment 4: Odd Student Out                                |
 | Monday, October 7, 2019       | Readability and Typography            | Lab 7: Readability and Typography                            |                                                              |
