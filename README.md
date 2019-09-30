@@ -6,6 +6,18 @@ Advanced Front-end Web Design and Development
 
 ## Topics and Assignments
 
+### Week 6
+
+Monday, September 30, 2019
+
+- CSS Master Class
+  - [CSS Architecture (PDF)](09-css-master-class/css-architecture.pdf)
+  - [Creating the Perfect CSS System (article)](https://medium.com/gusto-design/creating-the-perfect-css-system-fa38f5bcdd9e)
+  - [CSS "Specifishity" (PDF)](09-css-master-class/css-specifishity.pdf)
+  - [Guide to SMACSS (PDF)](09-css-master-class/smacss-2012-08-21.pdf)
+  - [CSS Flex and Grid Demos (ZIP)](09-css-master-class/flex-and-grid_demos.zip)
+  - [Lab 4: Advanced Layout](lab04-advanced-layout/instructions.md)
+
 ### Week 5
 
 Monday, September 23 and Wednesday, September 25, 2019
