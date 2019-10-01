@@ -18,7 +18,7 @@ The goal of this lab is to practice creating and coding a two-dimensional layout
 
 - [ ] **Code** the sketched layout in HTML and CSS 
 - [ ] Use some basic formatting so we can see the boxes
-  - It is okay to code in a single HTML using an embedded STYLE tag in the HEAD  
+  - It is okay to code in a single HTML file using an embedded STYLE tag in the HEAD  
   - Position the elements in the layout using CSS Grid properties (for the two dimensional layout) and CSS Flex properties (for the one dimensional layout)
 
 ### Part 3
@@ -31,4 +31,3 @@ The goal of this lab is to practice creating and coding a two-dimensional layout
 
 - [ ] Create a submission in Blackboard, in **Lab 04: Advanced Layout**
   - In addition to your webpage file(s), attach your sketch (a digital picture or any format)
-
