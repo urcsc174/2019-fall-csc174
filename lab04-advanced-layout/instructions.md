@@ -12,8 +12,7 @@ The goal of this lab is to practice creating and coding a two-dimensional layout
   - Note: the sketch will have to be turned-in
   - Do NOT replicate the professor's examples found in the Course Documentation website
 - [ ] At least one element needs to span colunns, and one element needs to span rows (more is better)
-- [ ] Within one element (preferably a big one) there needs to be at least five elements in a one-dimensional horizontal layout
-  - This is so you can demonstrate coding Flex items inside a Grid cell
+- [ ] Within one element (preferably a big one) there needs to be at least five elements in a one-dimensional horizontal layout (this is so you can demonstrate coding Flex items inside a Grid cell)
 
 ### Part 2
 
