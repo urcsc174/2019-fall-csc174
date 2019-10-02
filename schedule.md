@@ -13,8 +13,8 @@ This schedule is subject to modification throughout the semester. Always check w
 | Monday, September 23, 2019    | Information Architecture Website      |                                                              | [Assignment 3: Information Architecture](assignment03-information-architecture/instructions.md) |
 | Wednesday, September 25, 2019 | Principles of Page Design, part 1     | [User "Inyerface" (website)](https://userinyerface.com/) (ungraded) |                                                              |
 | Monday, September 30, 2019    | CSS Master Class                      | [Lab 4: Advanced Layout](lab04-advanced-layout/instructions.md) | *Work on Lab 4, due Wednesday*                               |
-| Wednesday, October 2, 2019    | Principles of Page Design, part 2     | Lab 5: Odd Student Out                                       | Assignment 4: Odd Student Out                                |
-| Monday, October 7, 2019       | Readability and Typography            | Lab 6: Readability and Typography                            |                                                              |
+| Wednesday, October 2, 2019    | Principles of Page Design, part 2     |                                                              | [Assignment 4: Odd Student Out](assignment04-odd-student-out/instructions.md) |
+| Monday, October 7, 2019       | Readability and Typography            | Lab 5: Readability and Typography                            |                                                              |
 | Wednesday, October 9, 2019    | Midterm Practical Review              | Midterm Project                                              | Make sure localhost works with MySQL                         |
 | Monday, October 14, 2019      | Fall Break                            |                                                              |                                                              |
 | Wednesday, October 16, 2019   | IA and Designer Review                |                                                              |                                                              |

@@ -8,6 +8,12 @@ Advanced Front-end Web Design and Development
 
 ### Week 6
 
+Wednesday, October 2, 2019
+
+- Principles of Page Design, part 2
+  - [Z-Patterns and F-Patterns (PDF)](10-principles-page-design2/z-patterns-and-f-patterns.pdf)
+  - [Assignment 4: Odd Student Out](assignment04-odd-student-out/instructions.md)
+
 Monday, September 30, 2019
 
 - CSS Master Class
@@ -22,7 +28,7 @@ Monday, September 30, 2019
 
 Monday, September 23 and Wednesday, September 25, 2019
 
-- Principles of Page Design
+- Principles of Page Design, part 1
   - [C.R.A.P. Examples (PDF)](08-principles-page-design1/crap-examples.pdf)
   - [Principles of Page Design, part 1 (PDF)](08-principles-page-design1/principles-page-design1.pdf)
   - [User "Inyerface" (website)](https://userinyerface.com/)
