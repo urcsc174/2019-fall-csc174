@@ -3,6 +3,7 @@ Advanced Front-end Web Design and Development
 
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)
+- [Google Sheet of City-Teams](https://docs.google.com/spreadsheets/d/1vkAjS8dGcFF_ByS9VRuI8sGagDNTyrp8JF43sN_mf4M/edit#gid=0)
 
 ## Topics and Assignments
 
