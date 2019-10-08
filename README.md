@@ -7,6 +7,11 @@ Advanced Front-end Web Design and Development
 
 ## Topics and Assignments
 
+### Week 7
+
+- Monday, October 7, 2019
+  - Layout Clinic - in-class demonstrations and follow-along labs
+
 ### Week 6
 
 Wednesday, October 2, 2019
