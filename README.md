@@ -9,6 +9,16 @@ Advanced Front-end Web Design and Development
 
 ### Week 7
 
+- Wednesday, October 9, 2019
+
+  - [Readability (PDF)](12-readability-typography/readability.pdf)
+
+  - [Typography (PDF)](12-readability-typography/typography.pdf)
+
+  - [10 Principles of Readability and Web Typography (article, 2009)](https://www.smashingmagazine.com/2009/03/10-principles-for-readable-web-typography/)
+
+  - [Design Principles for Developers: Processes and CSS Tips for Better Web Design (article, 2019)](https://css-tricks.com/design-principles-for-developers-processes-and-css-tips-for-better-web-design/)
+
 - Monday, October 7, 2019
   - Layout Clinic - in-class demonstrations and follow-along labs
 
