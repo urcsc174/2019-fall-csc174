@@ -7,6 +7,12 @@ Advanced Front-end Web Design and Development
 
 ## Topics and Assignments
 
+### Week 8
+
+- Wednesday, October 16, 2019
+  - [Midterm Practical](project-midterm/instructions.md)
+  - Intro to MySQL ([download starter files here (ZIP)](13-mysql-intro/mysql-starter-files.php.zip)) and [MySQL Test file here (ZIP)](13-mysql-intro/testmysql.php.zip)
+
 ### Week 7
 
 - Wednesday, October 9, 2019
