@@ -7,6 +7,12 @@ Advanced Front-end Web Design and Development
 
 ## Topics and Assignments
 
+### Week 9
+
+- Monday, October 21, 2019
+  - [PHP and MySQL, Part 1 (PDF)](14-php-mysql1/php-mysql.pdf)
+  - [PHP and MySQL Starter Files (ZIP)](14-php-mysql1/php-mysql_starter-files.zip)
+
 ### Week 8
 
 - Wednesday, October 16, 2019
