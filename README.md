@@ -9,6 +9,11 @@ Advanced Front-end Web Design and Development
 
 ### Week 9
 
+- Wednesday, October 23, 2019
+  - [PHP and MySQL, Part 2 (PDF)](15-php-mysql2/html-forms-and-databases.pdf)
+  - [PHP and MySQL Starter Files #3 (ZIP)](15-php-mysql2/databases3.zip)
+  - [Four Functions (ZIP)](15-php-mysql2/four-functions.zip)
+
 - Monday, October 21, 2019
   - [PHP and MySQL, Part 1 (PDF)](14-php-mysql1/php-mysql.pdf)
   - [PHP and MySQL Starter Files (ZIP)](14-php-mysql1/php-mysql_starter-files.zip)
