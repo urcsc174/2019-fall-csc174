@@ -7,6 +7,11 @@ Advanced Front-end Web Design and Development
 
 ## Topics and Assignments
 
+### Week 10
+
+- Monday, October 28, 2019
+  - [In-class Lab 7a: Phonebook Application](lab07-phonebook-application/instructions.md)
+
 ### Week 9
 
 - Wednesday, October 23, 2019
