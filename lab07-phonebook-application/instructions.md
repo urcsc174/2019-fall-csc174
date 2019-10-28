@@ -29,9 +29,7 @@ You can close or put-aside phpMyAdmin for now
 
 If your localhost is working correctly and you've confirmed you can connect to your database, use your web browser to navigate to the phonebook application (the files from last class).
 
-Notice in the phonebook application that there are only two fields being shown (besides ID): First Name and Last Name ...but the table you created in the database has *two more fields*: **phone** and **email**.  
-
-The bulk of this lab is to hack the code you've been given to work with the new database columns (**phone** and **email**).  
+Notice in the phonebook application that there are only two fields being shown (besides ID): First Name and Last Name ...but the table you created in the database has *two more fields*: **phone** and **email**.  The bulk of this lab is to hack the code you've been given to work with the fields.  
 
 *Note: for some CSC 174 students (especially those with no prior programming experience) this might be tricky, but not impossible! Carefully look at the lines of code indicated in the instructions below and make the changes as needed to get the application to work with the two new database fields.*
 
