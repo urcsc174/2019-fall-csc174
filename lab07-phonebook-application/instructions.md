@@ -43,13 +43,14 @@ Notice in the phonebook application that there are only two fields being shown (
   - duplicate **lines 19** and **20** and edit the duplicates as needed
   - duplicate **lines 31** and **32 ** and edit the duplicates as needed
 
-- [ ] - [ ] Edit **new.php**:
+- [ ] Edit **new.php**:
+  
   - duplicate and edit **lines 10** and **11**
   - edit **line 16**
   - edit **line 20**
   - edit **line 25** (be very careful with this one; very difficult with all the quotes and commas)
-  - edit line **32** (add two more empty quotes with commas)
-
+- edit line **32** (add two more empty quotes with commas)
+  
 - [ ] Edit **edit.php**
   - duplicate and edit **lines 13** and **14**
   - edit **line 19** (be careful with the double-pipes ...means OR)
