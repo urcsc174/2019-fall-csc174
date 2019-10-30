@@ -41,7 +41,7 @@ Notice in the phonebook application that there are only two fields being shown (
 
 - [ ] Edit **index.php**
   - duplicate **lines 19** and **20** and edit the duplicates as needed
-  - duplicate **lines 31** and **32 ** and edit the duplicates as needed
+  - duplicate **lines 31** and **32** and edit the duplicates as needed
 
 - [ ] Edit **new.php**:
   
@@ -59,7 +59,7 @@ Notice in the phonebook application that there are only two fields being shown (
   - duplicate and edit **lines 49** and **50**
   - edit **line 55**
 
-- [ ] - [ ] Then test all four functions in your web browser
+- [ ] Then test all four functions in your web browser
   - If all four database functions continue to work then just leave your files and database as-is until next time when we'll move them to the class web server
   - If any of the four functions don't work you'll need to figure out where you went wrong and fix it before the next class
 
