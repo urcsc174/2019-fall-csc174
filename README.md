@@ -9,8 +9,11 @@ Advanced Front-end Web Design and Development
 
 ### Week 10
 
+- Wednesday, October 30, 2019
+  - [In-class Lab 7b: Remote Phonebook Application](lab07b-remote-phonebook-application/instructions.md)
+
 - Monday, October 28, 2019
-  - [In-class Lab 7a: Phonebook Application](lab07-phonebook-application/instructions.md)
+  - [In-class Lab 7a: Phonebook Application](lab07a-phonebook-application/instructions.md)
 
 ### Week 9
 
