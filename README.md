@@ -7,6 +7,12 @@ Advanced Front-end Web Design and Development
 
 ## Topics and Assignments
 
+### Week 11
+
+- Monday, November 4, 2019
+  - Midterm Review
+  - [Assignment 5: Newsletter Signup](assignment05-newsletter-signup/instructions.md)
+
 ### Week 10
 
 - Wednesday, October 30, 2019
