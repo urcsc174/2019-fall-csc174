@@ -1,6 +1,6 @@
 # Assignment 5: Newsletter Signup
 
-*Due: Monday, April 11, 2019 (one week)* 
+*Due: Monday, November 11, 2019 (one week)* 
 
 The goal of this assignment is to take your midterm project and power it with PHP so it writes to a MySQL database.
 
