@@ -53,6 +53,8 @@ For the most part you can simply continue using the CSS as-is from your original
 
 Note: out of the four database functions (**Create**, **Read**, **Update**, and **Delete** ...known as "CRUD" ) you need to implement the **create** function only for this assignment.  
 
+<mark>Also note: for this assignment your are excused for ANY or ALL **error handling**.  You can assume that the user will use the HTML form correctly.  (This will reduce the amount of PHP code tremendously.)</mark>
+
 ###### Technical Grading
 
 In addition to powering the website's HTML form to work with a MySQL database, you are still responsible for the usual technical requirements:
