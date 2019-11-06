@@ -23,10 +23,10 @@ This schedule is subject to modification throughout the semester. Always check w
 | Monday, October 28, 2019      | Four Database Functions               | [In-class Lab 7a: Phonebook Application](lab07-phonebook-application/instructions.md) |                                                              |
 | Wednesday, October 30, 2019   | Remote Databases                      | [Lab 7b: Remote Phonebook Application](lab07b-remote-phonebook-application/instructions.md) |                                                              |
 | Monday, November 4, 2019      | Midterm Post-mortem                   |                                                              | [Assignment 5: Newsletter Signup](assignment05-newsletter-signup/instructions.md) |
-| Wednesday, November 6, 2019   | CMS Construction                      | Lab 9: CMS Construction                                      |                                                              |
-| Monday, November 11, 2019     | Persistent State, part 1              |                                                              | Assignment 6: Phonebook Application                          |
-| Wednesday, November 13, 2019  | Persistent State, part 2              | Lab 10: Login System                                         |                                                              |
-| Monday, November 18, 2019     | Master Class                          |                                                              |                                                              |
+| Wednesday, November 6, 2019   | Persistent State, part 1              |                                                              |                                                              |
+| Monday, November 11, 2019     | Persistent State, part 2              | Lab 8: Login System                                          | Assignment 6: Backend Database Access                        |
+| Wednesday, November 13, 2019  | CMS Construction, part 1              | Lab 9: CMS Construction                                      |                                                              |
+| Monday, November 18, 2019     | CMS Construction, part 2              |                                                              |                                                              |
 | Wednesday, November 20, 2019  | Editable HTML Tables                  | Lab 11: User Survey Website                                  | Assignment 7: User Survey Website                            |
 | Monday, November 25, 2019     | Final Practical Review                |                                                              |                                                              |
 | Wednesday, November 27, 2019  | Thanksgiving recess (begins at noon)  |                                                              |                                                              |
