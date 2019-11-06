@@ -89,7 +89,7 @@ You are responsible for the correct installation of the website on the class web
   
   - Then navigate into the **cpanel** and then to **phpMyAdmin**
 
-- [ ] Using *phpMyAdmin* in Bluehost, create a **table** with a name styled like this:<br>`flastname_newsletter` <br> ...using your first initial and last name, e.g. **rkostin_newletter**
+- [ ] Using *phpMyAdmin* in Bluehost, create a **table** with a name styled like this:<br>`flastname_newsletter` <br> ...using your first initial and last name, e.g. **rkostin_newsletter**
 
 - [ ] Then build the table using fields and data types that correspond with the data captured from your HTML form
 
