@@ -9,6 +9,11 @@ Advanced Front-end Web Design and Development
 
 ### Week 11
 
+- Wednesday, November 6, 2019
+  - [Website Building Continuum (PDF)](16-templates-libraries-frameworks/website-building-continuum.pdf)
+  - [Templates, Libraries, and Frameworks (PDF)](16-templates-libraries-frameworks/templates-libraries-frameworks.pdf)
+  - [Override CSS demo (ZIP)](16-templates-libraries-frameworks/bootstrap-demo.zip)
+
 - Monday, November 4, 2019
   - Midterm Review
   - [Assignment 5: Newsletter Signup](assignment05-newsletter-signup/instructions.md)
