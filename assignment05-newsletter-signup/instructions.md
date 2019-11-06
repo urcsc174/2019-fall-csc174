@@ -18,7 +18,7 @@ NOTE: there is *no* requirement for a **readme.md** file for this assignment.
   - Set the **primary goal**  of the website to getting users to *sign-up for the newsletter*
   - The **secondary goal** of the website is to get users to read more about the website's topic, and *then* sign-up for the newsletter
 - [ ] Part of the new architecture includes what happens *after* the user fills out the form and submits it  (there must be some confirmation of what the user did after the form is submitted)
-  - EXTRA CREDIT: if you can figure out how to get the "thank you" to replace the HTML form after it's sucessfully submitted without going to a new webpage, you'll get a bonus 10 points (100 points max) ...hint: google a solution; also use the word **ajax** as part of your search term
+  - EXTRA CREDIT: if you can figure out how to get the "thank you" to replace the HTML form after it's successfully submitted without going to a new webpage, you'll get a bonus 10 points (100 points max)
 
 Note: you can alter or add to the content in the website as needed to  support the new, primary goal
 
@@ -52,8 +52,6 @@ For the most part you can simply continue using the CSS as-is from your original
 - [ ] You must add the appropriate PHP code to the website to write the form data to the table in the database
 
 Note: out of the four database functions (**Create**, **Read**, **Update**, and **Delete** ...known as "CRUD" ) you need to implement the **create** function only for this assignment.  
-
-<mark>Also note: for this assignment your are excused for ANY or ALL **error handling**.  You can assume that the user will use the HTML form correctly.  (This will reduce the amount of PHP code tremendously.)</mark>
 
 ###### Technical Grading
 
