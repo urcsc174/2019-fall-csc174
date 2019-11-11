@@ -13,7 +13,7 @@
 
 - Instructor: **Professor Kostin**
 - E-mail: **<robert.kostin@rochester.edu>** (for faster reply, please use [Slack](https://csc174.slack.com/) to contact the professor)
-- Office: **Morey Hall, Room 313**
+- Office: **<s>Morey Hall, Room 313</s>**  NEW:**Wegmans Hall, Room 2105**
 
 ### Office Hours
 
