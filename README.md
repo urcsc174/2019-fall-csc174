@@ -9,6 +9,9 @@ Advanced Front-end Web Design and Development
 
 ### Week 12
 
+- Wednesday, November 13, 2019
+  - [Assignment 6: Full Brochure Website](assignment06-full-brochure-website/instructions.md)
+
 - Monday, November 11, 2019
   - [Website Building Continuum (PDF)](17-templates-libraries-frameworks/website-building-continuum.pdf)
   - [Templates, Libraries, and Frameworks (PDF)](17-templates-libraries-frameworks/templates-libraries-frameworks.pdf)
