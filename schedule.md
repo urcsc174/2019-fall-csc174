@@ -25,8 +25,8 @@ This schedule is subject to modification throughout the semester. Always check w
 | Monday, November 4, 2019      | Midterm Post-mortem                   |                                                              | [Assignment 5: Newsletter Signup](assignment05-newsletter-signup/instructions.md) |
 | Wednesday, November 6, 2019   | Database Review                       | [Override CSS demo (ZIP)](16-templates-libraries-frameworks/bootstrap-demo.zip) |                                                              |
 | Monday, November 11, 2019     | Templates, Libraries, and Frameworks  | Lab 8: CSS Frameworks                                        |                                                              |
-| Wednesday, November 13, 2019  | Full Brochure Website                 |                                                              | Assignment 6: Full Brochure Website                          |
-| Monday, November 18, 2019     | Persistent State                      | Lab x: Login System                                          | Assignment 6: Backend Database Access                        |
+| Wednesday, November 13, 2019  | Full Brochure Website                 | Lab 9: Assignment 6 Compliance                               | Assignment 6: Full Brochure Website                          |
+| Monday, November 18, 2019     | Persistent State                      | Lab 10: Login System                                         |                                                              |
 | Wednesday, November 20, 2019  | CMS Construction                      | Lab x: CMS Construction                                      |                                                              |
 | Monday, November 25, 2019     | Editable HTML Tables                  | Lab x: User Survey Website                                   | Assignment 7: User Survey Website                            |
 | Wednesday, November 27, 2019  | Thanksgiving recess (begins at noon)  |                                                              |                                                              |

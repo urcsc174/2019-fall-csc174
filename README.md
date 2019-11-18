@@ -7,6 +7,13 @@ Advanced Front-end Web Design and Development
 
 ## Topics and Assignments
 
+### Week 13
+
+- Monday, November 18, 2019
+  - [Persistent State (PDF)](22-persistent-state/persistent-state.pdf)
+  - [Lab 10: Login System](lab10-login-system/instructions.md)
+  - Lab 9: Assignment 6 Compliance (complete info on our shared [Google Sheet](https://docs.google.com/spreadsheets/d/1vkAjS8dGcFF_ByS9VRuI8sGagDNTyrp8JF43sN_mf4M/edit#gid=0))
+
 ### Week 12
 
 - Wednesday, November 13, 2019
