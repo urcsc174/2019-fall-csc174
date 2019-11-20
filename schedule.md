@@ -26,11 +26,11 @@ This schedule is subject to modification throughout the semester. Always check w
 | Wednesday, November 6, 2019   | Database Review                       | [Override CSS demo (ZIP)](16-templates-libraries-frameworks/bootstrap-demo.zip) |                                                              |
 | Monday, November 11, 2019     | Templates, Libraries, and Frameworks  | Lab 8: CSS Frameworks                                        |                                                              |
 | Wednesday, November 13, 2019  | Full Brochure Website                 | Lab 9: Assignment 6 Compliance                               | Assignment 6: Full Brochure Website                          |
-| Monday, November 18, 2019     | Persistent State                      | Lab 10: Login System                                         |                                                              |
-| Wednesday, November 20, 2019  | CMS Construction                      | Lab x: CMS Construction                                      |                                                              |
+| Monday, November 18, 2019     | Persistent State, part 1              | Lab 10: Login System                                         |                                                              |
+| Wednesday, November 20, 2019  | Persistent State, part 2              | Lab 11: Phonebook with Login (both parts a and b)            |                                                              |
 | Monday, November 25, 2019     | Editable HTML Tables                  | Lab x: User Survey Website                                   | Assignment 7: User Survey Website                            |
 | Wednesday, November 27, 2019  | Thanksgiving recess (begins at noon)  |                                                              |                                                              |
-| Monday, December 2, 2019      | Lab 11 Review                         |                                                              |                                                              |
+| Monday, December 2, 2019      | CMS Construction                      | Lab x: CMS Construction                                      |                                                              |
 | Wednesday, December 4, 2019   | Review                                |                                                              |                                                              |
 | Monday, December 9, 2019      | Final Practical Review                | Final Project                                                | Final Project (due: last day of exam week)                   |
 | Wednesday, December 11, 2019  | Open Lab                              |                                                              |                                                              |

@@ -9,6 +9,10 @@ Advanced Front-end Web Design and Development
 
 ### Week 13
 
+- Wednesday, November 20, 2019
+  - [Lab 11a: Phonebook with Login](lab11a-phonebook-with-login/instructions.md)
+  - and [Lab 11b: Remote Phonebook with Login](lab11b-remote-phonebook-with-login/instructions.md) (both labs due: Monday, November 25, 2019)
+
 - Monday, November 18, 2019
   - [Persistent State (PDF)](22-persistent-state/persistent-state.pdf)
   - [Lab 10: Login System](lab10-login-system/instructions.md)
