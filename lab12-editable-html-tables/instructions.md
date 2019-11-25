@@ -21,10 +21,10 @@ Using your localhost, install a solution that has all four "C.R.U.D." capabiliti
   - Beware of solutions that use PHP **mysql_** commands instead of mysql**i**_ (...with the **i**)
   - Beware of solutions that do not include an ADD (create) function - check out the demo if available
   - If frustrated, try this one but be aware: it doesn't used a standard "connection" file.  If you use it, you should fix that!
-    - https://www.webslesson.info/2017/07/live-add-edit-delete-datatables-records-using-php-ajax.html
+    - [https://www.webslesson.info/2017/07/live-add-edit-delete-datatables-records-using-php-ajax.html](https://www.webslesson.info/2017/07/live-add-edit-delete-datatables-records-using-php-ajax.html)
     - Using this solution will not qualify you for the *lowest lab grade exemption*
   - Here is another solution that works, however it doesn't edit "in-line" rather it uses modal dialog boxes (overlays) over the table to allow editing.
-    - https://www.phpflow.com/php/addedit-delete-record-using-bootgrid-php-mysql/
+    - [https://www.phpflow.com/php/addedit-delete-record-using-bootgrid-php-mysql/](https://www.phpflow.com/php/addedit-delete-record-using-bootgrid-php-mysql/)
     - NOTE: "Bootgrid" is someone's customized version of Bootstrap with some extra features
     - Using this solution will not qualify you for the *lowest lab grade exemption*
 
