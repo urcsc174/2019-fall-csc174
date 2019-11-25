@@ -7,6 +7,13 @@ Advanced Front-end Web Design and Development
 
 ## Topics and Assignments
 
+### Week 14
+
+- Monday, November 25, 2019
+  - Lab 11 Review
+  - [Editable HTML Tables (PDF)](24-editable-html-tables/editable-html-tables.pdf)
+  - [Lab 12: Editable HTML Tables](lab12-editable-html-tables/instructions.md)
+
 ### Week 13
 
 - Wednesday, November 20, 2019
