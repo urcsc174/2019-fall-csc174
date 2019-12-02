@@ -7,6 +7,14 @@ Advanced Front-end Web Design and Development
 
 ## Topics and Assignments
 
+### Week 15
+
+- Monday, December 2, 2019
+  - [Website Building Continuum (updated, PDF)](25-content-management-systems/website-building-continuum.pdf)
+  - [Content Management Systems (PDF)](25-content-management-systems/content-management-systems.pdf)
+  - [Lab 13: WordPress (local)](lab13-wordpress-local/instructions.md)
+  - [Assignment 7: CMS Construction](assignment07-cms-construction/instructions.md)
+
 ### Week 14
 
 - Monday, November 25, 2019
