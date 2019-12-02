@@ -25,10 +25,10 @@ The Technician is responsible for creating the WordPress instance on the class w
   - Then go to **csc174.org/[city-team]** to see your handiwork
 
 - [ ] Setup the WordPress instance<br>*Note: it's weird but yes - you seemingly have to re-enter a lot of the information you entered in the previous step.*
-  - Select English (United States) as the language
+  - Select **English (United States)** as the language
   - Enter the path using your **city-team** name (e.g. **rochester**)
   - Set the Admin Username as: **admin**
-  - Set the Admin Password as: [same as we always use] (then click to confirm use of "week password")
+  - Set the Admin Password as: [same as we always use] (then click to confirm use of "weak password")
   - Enter your (technician) email address
   - Click **Install WordPress**
   - Login with the admin account
