@@ -7,7 +7,16 @@ Advanced Front-end Web Design and Development
 
 ## Topics and Assignments
 
+### Week 16
+
+- Monday, December 9, 2019
+  - Final Exam - study notes (preview)
+  - Final Exam - Practical (instructions coming soon)
+
 ### Week 15
+
+* Wednesday, December 4, 2019
+  * OPTIONAL catch-up day
 
 - Monday, December 2, 2019
   - [Website Building Continuum (updated, PDF)](25-content-management-systems/website-building-continuum.pdf)

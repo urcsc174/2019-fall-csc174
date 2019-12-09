@@ -31,6 +31,6 @@ This schedule is subject to modification throughout the semester. Always check w
 | Monday, November 25, 2019     | Editable HTML Tables                  | Lab 12: Editable Table                                       |                                                              |
 | Wednesday, November 27, 2019  | Thanksgiving recess (begins at noon)  |                                                              |                                                              |
 | Monday, December 2, 2019      | CMS Construction                      | Lab 13: WordPress (local)                                    | Assignment 7: CMS Construction                               |
-| Wednesday, December 4, 2019   | TBD                                   |                                                              |                                                              |
+| Wednesday, December 4, 2019   | Optional Catch-up Day                 |                                                              |                                                              |
 | Monday, December 9, 2019      | Final Practical Review                | Final Project                                                | Final Project (due: last day of exam week)                   |
 | Wednesday, December 11, 2019  | Final Exam (in Blackboard)            |                                                              |                                                              |
