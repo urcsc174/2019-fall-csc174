@@ -11,7 +11,7 @@ Advanced Front-end Web Design and Development
 
 - Monday, December 9, 2019
   - Final Exam - study notes (preview)
-  - Final Exam - Practical (instructions coming soon)
+  - [Final Exam - Practical](project-final/instructions.md) (due: Friday, December 20, 2019 ...last day of exams)
 
 ### Week 15
 
