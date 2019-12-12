@@ -18,9 +18,9 @@ From a very high level, you need to: create a **small website** that demonstrate
 
 - [ ] YOU choose your domain; **send a DM in Slack** to the professor with your domain proposal
   - You probably want to do this a quickly as possible because you should not start building your website until *after* you've submitted your **domain proposal** <u>and</u> you have received a response from the professor.
-  - Note: your domain proposal will be graded ...so you need to know what a domain is!
+  - Note: <s>your domain proposal will be graded ...so</s> you need to know what a domain is!
     - One sentence or so will suffice
-  - Based on your domain, **the professor** (not you) will define the following by replying to your DM in Slack (you should receive a reply within 24 hours)
+  - Based on your domain, **the professor** (not you) will define the following by replying to your DM in Slack (starting after Wednesday, December 12, you should receive a reply within 24 hours)
     - The Ontology
     - The Taxonomy
     - The Choreography
@@ -44,7 +44,7 @@ NOTE: everyone will find that the information architecture that the professor se
 
 - [ ] A slideshow
 - [ ] A working HTML contact form that writes data to a database
-- [ ] A "back-end" to the website that provides four-function access (i.e. C.R.U.D) to the database behind a password-protected wall
+- [ ] <s>A "back-end" to the website that provides four-function access (i.e. C.R.U.D) to the database behind a password-protected wall</s>
 
 **Construction Notes:** although the nature of web development is collaborative, the intent for this exam is to demonstrate *your* abilities to build a website independently.  
 
